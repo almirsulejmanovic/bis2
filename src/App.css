@@ -1,0 +1,32 @@
+button {
+  padding: 50px 60px;
+  border-radius: 0;
+  font-size: 20px;
+  background-color: #D8D8D8;
+  cursor: pointer;
+  border: 1px solid #707072;
+}
+
+button:hover {
+  background-color: #9FEDFF;
+  border: 1px solid #3690C0;
+}
+
+button:active {
+  background-color: #26A9E7;
+  border: 1px solid #1577A5;
+}
+
+.app {
+  margin: auto;
+  max-width: 900px;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 50px;
+}
+
+.btn {
+  margin-bottom: 50px;
+}
