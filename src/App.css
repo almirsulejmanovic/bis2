@@ -17,6 +17,11 @@ button:active {
   border: 1px solid #1577A5;
 }
 
+button:disabled {
+  cursor: not-allowed;
+  background-color: #D8D8D8;
+}
+
 .app {
   margin: auto;
   max-width: 900px;
